@@ -1,0 +1,10 @@
+baseURL = "https://sisy.beauty/"
+languageCode = "en-us"
+title = "SISY Beauty - Women Shaping Beauty, Wellness & Personal Care"
+
+[params]
+  description = "SISY Beauty connects cosmetic scientists, brand founders, wellness coaches, and beauty professionals with the stages and audiences they deserve."
+  tagline = "Women shaping beauty, wellness, and personal care."
+
+[markup.goldmark.renderer]
+  unsafe = true
